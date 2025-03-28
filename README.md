@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Parmaannd Jha
 
-🌐 A passionate **Shopify** and **WordPress Developer** with a knack for building clean, fast, and responsive eCommerce websites and custom themes.
+💻 A passionate **Shopify & WordPress Developer** with **7+ years of experience** building sleek, high-performing, and responsive eCommerce websites. I specialize in crafting custom themes and scalable solutions that are fast, SEO-optimized, and designed to drive real business results. Whether you're launching a brand or scaling up, I deliver clean code, intuitive UX, and a seamless admin experience — tailored to your goals. 🌐
 
 ---
 
