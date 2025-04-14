@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Parmaannd Jha
+# 👋 Hi, I'm Parmanand Jha
 
 💻 A passionate **Shopify & WordPress Developer** with **10+ years of hands-on experience** building sleek, scalable, and high-performing eCommerce websites. I specialize in **custom themes**, **plugin development**, and performance-optimized solutions that are responsive, SEO-friendly, and conversion-focused.
 
