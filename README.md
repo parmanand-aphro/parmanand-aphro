@@ -81,7 +81,7 @@ I’m an active **WordPress Contributor** — supporting the global WordPress co
 - 📸 [Instagram](https://www.instagram.com/jha_b2/)  
 - 🐦 [X (Twitter)](https://x.com/jha_b2)  
 - 🌐 [WordPress.org](https://profiles.wordpress.org/jhaparmanand/)  
-- 💻 [GitHub](https://github.com/parmanand-aphro)  
+- 💻 [GitHub](https://github.com/parmanand-aphro)  [GitHub](https://parmanand-aphro.github.io/)
 - 📧 Email: **parmanand.jha@hotmail.com**
 
 ---
